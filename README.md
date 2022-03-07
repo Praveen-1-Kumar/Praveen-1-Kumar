@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Praveen Kumar </h1>
 <h3 align="center">Devloper as a Student</h3>
-<div id="badges">
+<div id="badges" style="display:flex;">
 
  <a href="www.google.com"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="popu Badge"/></a>
 
